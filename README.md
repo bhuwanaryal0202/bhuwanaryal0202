@@ -11,7 +11,7 @@ Full Stack Developer with a proven ability to collaborate effectively with senio
 * 🧠  I'm learning Next js, AWS
 * 🤝  I'm open to collaborating on Software Development, Web Application development
 * ⚡  I am quite a bit Gamer|
-* ⚡  I buit a Trendlyai.com - AI tool which finds latest trending topics and news and with on click you can create content for everthing.
+* ⚡  I buit a [ Trendlyai.com](https//www.trendlyai.com)) - AI tool which finds latest trending topics and news and with on click you can create content for everthing.
 
 ### Skills
 
