@@ -1,40 +1,65 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bhuwan Aryal
-====================================================================================================================================
+<h1 align="center">Hi, I'm Bhuwan 👋</h1>
 
-Full Stack Developer
--------------------
-
-Full Stack Developer with a proven ability to collaborate effectively with senior developers while spending extra time to be mentored. Enjoy working closely with team members to ensure workloads are effectively redirected to bottlenecks and personally picking up the slack when necessary. With a passion for both personal growth and for software development, Keen to learn new languages while sharpening existing skills. Ready to apply my passion for coding to a talented engineering team to develop quality solutions.
-
-* 🌍  I'm based in Melbourne, Australia
-* ✉️  You can contact me at [bhuwanaryal0202@gmail.com](mailto:bhuwanaryal0202@gmail.com)
-* 🧠  I'm learning Next js, AWS
-* 🤝  I'm open to collaborating on Software Development, Web Application development
-* ⚡  I am quite a bit Gamer|
-* ⚡  I buit a [Trendly AI](https://www.trendlyai.com) - AI tool which finds latest trending topics and news and with on click you can create content for everthing.
-
-### Skills
-
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<p align="center">
+Founder and full-stack + AI developer based in Melbourne, Australia.<br/>
+I build AI products, web apps, and mobile apps that ship to real users and hold up in production, not demos that never leave localhost.
 </p>
 
+---
 
-### Socials
+### 🚀 What I've shipped
 
-<p align="left"> <a href="https://www.github.com/bhuwanaryal0202" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/bhuwan-aryal-2b77231a2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/thatsmebhuwan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+- 🔍 **[TrendlyAI](https://trendlyai.com)** — an AI search visibility platform I grew to **2,500+ users as solo founder**. It checks whether ChatGPT, Perplexity, and Google AI Overviews recommend a brand, then drafts the content that gets it cited.
+  `Next.js` · `Supabase` · `Stripe`
 
-### Badges
+- 🕵️ **Dossier** — an AI daily murder-mystery mobile game, live on the **[App Store](https://apps.apple.com/us/app/dossier-daily-murder-mystery/id6760699541)** and **[Google Play](https://play.google.com/store/apps/details?id=com.dossier.app)**.
+  `React Native` · `Claude API` · `RevenueCat`
 
+- 🏥 **NDIS Disability-Care CRM** — a CRM and booking platrovider, with 8+ services bookable online and a full admindashboard.
+  `Next.js` · `Supabase` · `PostgreSQL`
 
-<a href="https://github.com/bhuwanaryal0202" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhuwanaryal0202&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+- 🤖 **Content Automation System** — an autonomous pipelin and posts content on a schedule, with retries and gracefulfailure handling.
+  `Claude API` · `n8n` · `BullMQ` · `Redis`
+
+- 🏛️ I also maintain and upgrade **enterprise Angular systent transport authority.
+
+> Most of my repositories are private (client and commercie lives behind the scenes. The products above are live andpublic.
+
+---
+
+### 🛠️ Tech I work with
+
+**Frontend**
+![Next.js](https://img.shields.io/badge/Next.js-000000?sty&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?styogoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-=tailwindcss&logoColor=white)
+
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?styleColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169tgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+**Mobile**
+![React Native](https://img.shields.io/badge/React_Native-=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+
+**AI & Cloud**
+![Claude](https://img.shields.io/badge/Claude_API-D97757?sic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-te)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?styleColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?styleColor=white)
+
+---
+
+### 📫 Let's build something
+
+I'm the founder of **BhuwanLabs** and open to freelance anI products, full-stack SaaS, and automation.
+
+🌐 **[bhuwanlabs.com](https://bhuwanlabs.com)** &nbsp;·&nbhttps://www.upwork.com/freelancers/~016ac9cf3ec8194661)**&nbsp;·&nbsp; ✉️ **bhuwanaryal1404@gmail.com**
