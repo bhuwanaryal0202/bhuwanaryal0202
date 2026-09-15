@@ -62,4 +62,4 @@ I build AI products, web apps, and mobile apps that ship to real users and hold 
 
 I'm the founder of **BhuwanLabs** and open to freelance anI products, full-stack SaaS, and automation.
 
-🌐 **[bhuwanlabs.com](https://bhuwanlabs.com)** &nbsp;·&nbhttps://www.upwork.com/freelancers/~016ac9cf3ec8194661)**&nbsp;·&nbsp; ✉️ **bhuwanaryal1404@gmail.com**
+🌐 **[bhuwanlabs.com](https://bhuwanlabs.com)** &nbsp; https://www.upwork.com/freelancers/~016ac9cf3ec8194661 **&nbsp;·&nbsp; ✉️ **bhuwanaryal1404@gmail.com**
